@@ -1,4 +1,4 @@
-# Extract-Sensitive-Content-HubSpot
+# Extract Sensitive Content in HubSpot
 Use Operations Hub's programmable automation to detect and extract sensitive content. In this example we are looking for sensitive content like Social Security Number (SSN) in the body of an email. In the below images we can see the SSN in the original email has been removed once the email was sent to HubSpot replacing it by ***SENSITIVE CONTENT REMOVED***.</br></br>
 You can find the **Workflow** [HERE](https://app.hubspot.com/workflows/21005107/platform/flow/290045504/edit) (Access to workflow is only for internal HubSpot employees).
 
